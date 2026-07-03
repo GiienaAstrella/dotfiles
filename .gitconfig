@@ -1,6 +1,6 @@
 [user]
-	email = ghifari@ghifari160.com
-	name = GHIFARI160
+	email = giiena@giiena.me
+	name = Giiena Astrella
 [filter "lfs"]
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
