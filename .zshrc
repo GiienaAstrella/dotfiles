@@ -63,8 +63,8 @@ if type "jenv" > /dev/null; then
 fi
 
 # Intellij IDEA
-if test -d "/Applications/IntelliJ IDEA CE.app/Contents/MacOS"; then
-    export PATH="/Applications/IntelliJ IDEA CE.app/Contents/MacOS:$PATH"
+if test -d "/Applications/IntelliJ IDEA.app/Contents/MacOS"; then
+    export PATH="/Applications/IntelliJ IDEA.app/Contents/MacOS:$PATH"
 fi
 
 export NVM_DIR="$HOME/.nvm"
