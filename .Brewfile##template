@@ -149,6 +149,7 @@ cask "modrinth"                                         # Minecraft launcher
 cask "notion"                                           # App to write, plan, collaborate, and get organized
 cask "ngrok"                                            # Reverse proxy, secure introspectable tunnels to localhost
 cask "obs"                                              # Open-source software for live streaming and screen recording
+cask "obsidian"                                         # Knowledge base that works on top of a local folder of plain text Markdown files
 cask "obs-ndi"                                          # NewTek NDI integration for OBS studio
 cask "parsec"                                           # Remote desktop
 cask "postman"                                          # Collaboration platform for API development
